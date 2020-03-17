@@ -90,8 +90,8 @@ public class MapFragment extends Fragment implements OnMapReadyCallback,  Direct
 
     private TextView description_text ;
     private InterstitialAd mInterstitialAd;
-    private String UNITID = "ca-app-pub-9747466889192287/4679989530" ;
-    private String TESTID ="ca-app-pub-3940256099942544/1033173712";
+    private String UNITID = "HIDDEN" ;
+    private String TESTID ="HIDDEN";
 
     //TODO register to the activity button, set people counter,
 
